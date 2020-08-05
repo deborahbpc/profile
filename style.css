@@ -39,7 +39,7 @@ a {
     text-decoration: none;
     color: #590925;
     font-weight: 400;
-    font-size: 10vmin;
+    font-size: 30%;
 }
 a:hover {
     text-decoration: none;
@@ -59,8 +59,8 @@ a:hover {
 
 .round-pic {
     border-radius: 50%;
-    width: 20vmin;
-    height: 20vmin;
+    width: 20%;
+    height: 20%;
 }
 
 .btn-wine {
@@ -68,7 +68,7 @@ a:hover {
     color: white;
     padding: 15px 15px;
     border-radius: 4px;
-    font-size: 3vmin;
+    font-size: 50%;
 }
 
 /* .container {

@@ -66,9 +66,9 @@ a:hover {
 .btn-wine {
     background-color: #590925;
     color: white;
-    padding: 15px 20px;
+    padding: 15px 15px;
     border-radius: 4px;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 /* .container {

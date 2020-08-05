@@ -39,7 +39,7 @@ a {
     text-decoration: none;
     color: #590925;
     font-weight: 600;
-    font-size: 70px;
+    font-size: 20vh;
 }
 a:hover {
     text-decoration: none;
@@ -59,8 +59,8 @@ a:hover {
 
 .round-pic {
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 60vh;
+    height: 60vh;
 }
 
 .btn-wine {
@@ -68,7 +68,7 @@ a:hover {
     color: white;
     padding: 15px 15px;
     border-radius: 4px;
-    font-size: 15px;
+    font-size: 5vh;
 }
 
 /* .container {
@@ -82,13 +82,13 @@ a:hover {
 
 
 /*Adding responsiveness*/
-@media screen and (max-width: 767px){
+/* @media screen and (max-width: 767px){
     .table-responsive>.table>thead>tr>th, .table-responsive>.table>tbody>tr>th, 
     .table-responsive>.table>tfoot>tr>th, .table-responsive>.table>thead>tr>td, 
     .table-responsive>.table>tbody>tr>td, .table-responsive>.table>tfoot>tr>td {
         word-break: break-word;
     }
-}
+} */
 /* @media (max-width: 960px) {
     /* For a screen < 960px, this CSS will be read */
     /* .container {

@@ -38,7 +38,7 @@ a {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: #590925;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 20vmin;
 }
 a:hover {
@@ -59,8 +59,8 @@ a:hover {
 
 .round-pic {
     border-radius: 50%;
-    width: 20vmin;
-    height: 20vmin;
+    width: 40vmin;
+    height: 40vmin;
 }
 
 .btn-wine {
